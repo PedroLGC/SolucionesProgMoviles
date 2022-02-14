@@ -35,7 +35,7 @@ namespace CostoViaje
                     Console.WriteLine($"Invalid value, please rewrite your answer: {e}");
                 }
             } while (!ciclo);
-            //I convert the string variables to double using the convert class.
+            //I converted the string variables to double using the convert class.
             do {
                 try {
                     ciclo = true;
