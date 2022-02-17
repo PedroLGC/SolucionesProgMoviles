@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace Practica2{
+namespace Practica2 
+{
     public class PlanRenta
     {
         public string NombreUsuario {get; set;}
@@ -15,7 +16,7 @@ namespace Practica2{
             this.MbConsumidos = MbConsumidos;
             this.TipoCelular = TipoCelular;
         }
-
+        
         
     }
 }
