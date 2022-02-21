@@ -59,6 +59,7 @@ namespace Practica2
             plan.ConsumeMB(1000);
             plan.ConsumeMinutos(900);
             Console.Write(plan.ToString());
+            Console.ReadKey();
         }
     }
 }
