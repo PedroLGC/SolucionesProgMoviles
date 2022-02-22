@@ -56,8 +56,8 @@ namespace Practica2
             } while (ciclo == false);
 
             plan = new PlanRenta(usuario, gama);
-            plan.ConsumeMB(1000);
-            plan.ConsumeMinutos(900);
+            plan.ConsumeMB(500);
+            plan.ConsumeMinutos(1150);
             Console.Write(plan.ToString());
             Console.ReadKey();
         }
