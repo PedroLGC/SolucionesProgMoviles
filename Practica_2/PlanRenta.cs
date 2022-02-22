@@ -51,26 +51,26 @@ namespace Practica2
                 return resultado;
             return 0;
         }
-    public double DiferenciaEquipo(int selector)
-    {
-        if (selector == 1)
+        public double DiferenciaEquipo(int selector)
         {
-            return 0;
+            if (selector == 1)
+            {
+                return 0;
+            }
+            else if (selector == 2)
+            {
+                return 1999;
+            }
+            else
+            {
+                return 5999;
+            }
         }
-        else if (selector == 2)
+        public override string ToString()
         {
-            return 1999;
-        }
-        else
-        {
-            return 5999;
+            return "\nRESULTADOS \n" +
+            $"\nUsuario: {NombreUsuario} \nMinutos consumidos: {MinutosConsumidos} \nMB consumidos: {MbConsumidos} \n" +
+             $"Renta mensual: {CalculaPagoMensual()} \nPago diferencial de su equipo: ${DiferenciaEquipo(TipoCelular)}";
         }
     }
-    public override string ToString()
-    {
-        return "\nRESULTADOS \n" +
-        $"\nUsuario: {NombreUsuario} \nMinutos consumidos: {MinutosConsumidos} \nMB consumidos: {MbConsumidos} \n" +
-         $"Renta mensual: {CalculaPagoMensual()} \nPago diferencial de su equipo: ${DiferenciaEquipo(TipoCelular)}";
-    }
-}
 }
