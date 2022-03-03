@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\plgon\\Documents\\Tareas\\ProgMovil\\NorthwindDB\\Northwind\\Northwind.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\plgon\\Documents\\Tareas\\ProgMovil\\NorthwindDB\\Northwind\\Northwind.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\plgon\\Documents\\Tareas\\ProgMovil\\NorthwindDB\\Northwind\\Northwind.sqlproj",
+        "projectName": "Northwind",
+        "projectPath": "c:\\Users\\plgon\\Documents\\Tareas\\ProgMovil\\NorthwindDB\\Northwind\\Northwind.sqlproj",
+        "packagesPath": "C:\\Users\\plgon\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\plgon\\Documents\\Tareas\\ProgMovil\\NorthwindDB\\Northwind\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\plgon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\bin\Debug\Northwind.dacpac
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\obj\Debug\Northwind.sqlproj.AssemblyReference.cache
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\obj\Debug\Model.xml
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\obj\Debug\refactor.xml
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\obj\Debug\postdeploy.sql
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\obj\Debug\predeploy.sql
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\obj\Debug\Northwind.dll
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\obj\Debug\Northwind.pdb
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\bin\Debug\Northwind.dll
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\bin\Debug\Northwind.pdb
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\bin\Debug\master.dacpac
+c:\Users\plgon\Documents\Tareas\ProgMovil\NorthwindDB\Northwind\obj\Debug\Northwind.sqlproj.CopyComplete

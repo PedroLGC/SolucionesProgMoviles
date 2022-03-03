@@ -1,0 +1,1 @@
+INSERT INTO Categories( [CategoryName], [Description]) VALUES('Sauce','Sauces arround the world') GO
